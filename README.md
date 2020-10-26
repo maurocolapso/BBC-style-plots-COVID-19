@@ -13,4 +13,4 @@ There is a video tutorial in spanish on Youtube https://youtu.be/TdZ6bxpYoqM
 
 ## 26/10/2020 
 ## Added
-How to create a choropleth map with cumulative covid-19 deaths in Scotland
+* How to create a choropleth map with cumulative covid-19 deaths in Scotland
